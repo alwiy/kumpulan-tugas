@@ -1,0 +1,41 @@
+body{
+    margin-left: 5%;
+}
+.box1 {
+    width : 21%;
+    background-color : green;
+    margin-left : 1em;
+    margin-top : 2em;
+    float : left;
+    height : 1800px;
+    border: 10px solid blue;
+  }
+  .box2 {
+    width : 21%;
+    background-color : yellow;
+    margin-left : 1em;
+    margin-top : 2em;
+    float : left;
+    height : 1800px;
+    border: 10px solid black;
+  }
+  .box3 {
+    width : 21%;
+    background-color : red;
+    margin-left : 1em;
+    margin-top : 2em;
+    float : left;
+    height : 1800px;
+    border: 10px solid gold;
+  }
+  .box4 {
+    position : relative;
+    width : 21%;
+    height : 1800px;
+    background-color : blue;
+    float : left;
+    margin-left : 1em;
+    margin-top : 2em;
+    
+    border: 10px solid grey;
+  }
